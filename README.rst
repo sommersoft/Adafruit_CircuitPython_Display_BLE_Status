@@ -9,8 +9,8 @@ Introduction
     :target: https://discord.gg/nBQh6qu
     :alt: Discord
 
-.. image:: https://travis-ci.com/adafruit/Adafruit_CircuitPython_Display_BLE_Status.svg?branch=master
-    :target: https://travis-ci.com/adafruit/Adafruit_CircuitPython_Display_BLE_Status
+.. image:: https://github.com/adafruit/Adafruit_CircuitPython_Display_BLE_Status/workflows/Build%20CI/badge.svg
+    :target: https://github.com/adafruit/Adafruit_CircuitPython_Display_BLE_Status/actions
     :alt: Build Status
 
 Displayio Widgets related to BLE status
