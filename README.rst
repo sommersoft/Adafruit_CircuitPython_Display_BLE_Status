@@ -1,3 +1,5 @@
+**This repository is being archived. It will remain here in that status. If you wish to make changes or use this library, please fork it.**
+
 Introduction
 ============
 
